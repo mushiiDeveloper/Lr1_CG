@@ -1,0 +1,9 @@
+c:\users\halk-pc\documents\visual studio 2017\Projects\Lr1_CG\Lr1_CG\bin\Debug\Lr1_CG.exe.config
+c:\users\halk-pc\documents\visual studio 2017\Projects\Lr1_CG\Lr1_CG\bin\Debug\Lr1_CG.exe
+c:\users\halk-pc\documents\visual studio 2017\Projects\Lr1_CG\Lr1_CG\bin\Debug\Lr1_CG.pdb
+c:\users\halk-pc\documents\visual studio 2017\Projects\Lr1_CG\Lr1_CG\obj\Debug\Lr1_CG.csprojResolveAssemblyReference.cache
+c:\users\halk-pc\documents\visual studio 2017\Projects\Lr1_CG\Lr1_CG\obj\Debug\Lr1_CG.Form1.resources
+c:\users\halk-pc\documents\visual studio 2017\Projects\Lr1_CG\Lr1_CG\obj\Debug\Lr1_CG.Properties.Resources.resources
+c:\users\halk-pc\documents\visual studio 2017\Projects\Lr1_CG\Lr1_CG\obj\Debug\Lr1_CG.csproj.GenerateResource.Cache
+c:\users\halk-pc\documents\visual studio 2017\Projects\Lr1_CG\Lr1_CG\obj\Debug\Lr1_CG.exe
+c:\users\halk-pc\documents\visual studio 2017\Projects\Lr1_CG\Lr1_CG\obj\Debug\Lr1_CG.pdb
